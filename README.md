@@ -55,3 +55,9 @@ java -cp ".:/usr/local/lib/antlr-4.13.1-complete.jar" Calc < input.txt
 ```
 
 # Capturas tomadas haciendo la prueba
+![WhatsApp Image 2026-02-26 at 10 02 57 AM](https://github.com/user-attachments/assets/dd9bfdc9-a1b7-4b32-8740-4ed59e948fde)
+![WhatsApp Image 2026-02-26 at 10 02 56 AM (3)](https://github.com/user-attachments/assets/e7348e24-8a67-45fd-86ea-f50b540dd309)
+![WhatsApp Image 2026-02-26 at 10 02 56 AM (2)](https://github.com/user-attachments/assets/3fac6551-82ab-4e3a-b61b-19e5db7ad79a)
+![WhatsApp Image 2026-02-26 at 10 02 56 AM (1)](https://github.com/user-attachments/assets/de4f79c8-d722-443f-86de-833951ee178a)
+![WhatsApp Image 2026-02-26 at 10 02 56 AM](https://github.com/user-attachments/assets/5f93d24f-71ec-4984-9bae-79b53d8995b4)
+
